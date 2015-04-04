@@ -1,0 +1,406 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"so",
+				"solution"
+			],
+			[
+				"sub",
+				"subling"
+			],
+			[
+				"cl",
+				"clone"
+			],
+			[
+				"sol",
+				"solute"
+			],
+			[
+				"subl",
+				"sublingNode"
+			],
+			[
+				"fil",
+				"filter2d_freq"
+			],
+			[
+				"hw",
+				"hw3_1_idft"
+			],
+			[
+				"rec2",
+				"rec2img"
+			],
+			[
+				"im_out",
+				"im_out_temp"
+			],
+			[
+				"rec2i",
+				"rec2ift"
+			],
+			[
+				"hw3",
+				"hw3_1_dft"
+			],
+			[
+				"tra",
+				"transpose"
+			],
+			[
+				"rec",
+				"rec"
+			],
+			[
+				"j",
+				"j_p"
+			],
+			[
+				"arr",
+				"arr_patch"
+			],
+			[
+				"save",
+				"save_img"
+			],
+			[
+				"pat",
+				"patch_size"
+			],
+			[
+				"su",
+				"suffix"
+			],
+			[
+				"c",
+				"cauculate_equalize_hist"
+			],
+			[
+				"ca",
+				"caucualte"
+			],
+			[
+				"caucu",
+				"cauculate_max_mix"
+			],
+			[
+				"cal",
+				"cauculate_equalize_hist"
+			],
+			[
+				"testU",
+				"testUp_scale_2"
+			],
+			[
+				"testDown_s",
+				"testDown_scale_2"
+			],
+			[
+				"testD",
+				"testDown_scale_1"
+			],
+			[
+				"sz",
+				"sizeList"
+			],
+			[
+				"t",
+				"tgtWidthRate"
+			],
+			[
+				"tg",
+				"tgtHeightRate"
+			],
+			[
+				"in",
+				"input_img"
+			],
+			[
+				"p",
+				"plusC"
+			],
+			[
+				"minu",
+				"minusPlace"
+			],
+			[
+				"big",
+				"bigB"
+			],
+			[
+				"resu",
+				"resultTemp"
+			],
+			[
+				"index",
+				"indexNoZero"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"com",
+				"compareStr"
+			],
+			[
+				"re",
+				"referrence"
+			],
+			[
+				"co",
+				"contianer"
+			],
+			[
+				"con",
+				"countA"
+			],
+			[
+				"M",
+				"MJ_ID"
+			],
+			[
+				"main",
+				"main_ID"
+			],
+			[
+				"very",
+				"veryLongInt"
+			],
+			[
+				"ver",
+				"veryLongIntChar"
+			],
+			[
+				"va",
+				"varifilyPrime"
+			],
+			[
+				"var",
+				"varifilyNumber"
+			]
+		]
+	},
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"Input",
+				"InputHelper"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"com",
+				"Toggle Comment"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 128.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/adam/develop/workspace/SublimeText/SwordOffer/interview_24_2.java",
+		"/home/adam/develop/workspace/SublimeText/SwordOffer/interview_18.java",
+		"/home/adam/develop/workspace/SublimeText/SwordOffer/interview_21.java",
+		"/home/adam/develop/workspace/SublimeText/SwordOffer/interview_19.java",
+		"/home/adam/develop/workspace/SublimeText/SwordOffer/interview_20.java",
+		"/home/adam/develop/archi/gradle21/samples/java/base/build.gradle",
+		"/etc/host",
+		"/opt/android-studio/bin/idea.properties",
+		"/home/adam/develop/temp/dip/hw1/hw1_2.py",
+		"/home/adam/develop/temp/dip/hw2/hw2_1.py",
+		"/home/adam/develop/temp/dip/hw1/hw1_1.py",
+		"/home/adam/develop/temp/dip/hw1/hw1_pre.py",
+		"/home/adam/.config/sublime-text-2/Packages/GoSublime/CHANGELOG.md",
+		"/home/adam/document/jersey/jersey-example/examples/helloworld-spring-webapp/src/main/java/org/glassfish/jersey/examples/helloworld/spring/SpringSingletonResource.java",
+		"/home/adam/document/jersey/jersey-example/examples/helloworld-spring-webapp/src/main/java/org/glassfish/jersey/examples/helloworld/spring/GreetingServiceImpl.java",
+		"/home/adam/document/jersey/jersey-example/examples/helloworld-spring-webapp/src/main/java/org/glassfish/jersey/examples/helloworld/spring/GreetingService.java",
+		"/home/adam/develop/workspace/SublimeText/sicily/ohter/BigNum_Template.cpp",
+		"/home/adam/develop/workspace/SublimeText/sicily/ohter/1381.cpp",
+		"/home/adam/document/javamail1_4_7/javamail-1.4.7/demo/client/simple.mailcap",
+		"/home/adam/develop/workspace/SublimeText/cppBase/ch09/testOFStream.cpp",
+		"/home/adam/develop/workspace/SublimeText/cppBase/ch09/write.data",
+		"/home/adam/develop/workspace/SublimeText/cppBase/ch06/testVisual.cpp",
+		"/home/adam/develop/workspace/SublimeText/cppBase/ch06/testAbstract.cpp",
+		"/home/adam/develop/workspace/SublimeText/cppBase/ch04/operator.cpp",
+		"/home/adam/develop/workspace/SublimeText/cppBase/ch04/testFriend.cpp",
+		"/opt/hadoop/datas/hdfs/name/image/fsimage",
+		"/home/adam/develop/workspace/SublimeText/sicily/Ch01/1021.cpp",
+		"/home/adam/develop/workspace/SublimeText/sicily/Ch01/1027.cpp",
+		"/home/adam/develop/workspace/SublimeText/sicily/Ch01/1001.cpp",
+		"/home/adam/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
+		"/home/adam/.config/sublime-text-2/Packages/Alignment/Base File.sublime-settings",
+		"/home/adam/develop/temp/jersey/simple-service/src/test/java/com/example/MyResourceTest.java",
+		"/home/adam/develop/temp/jersey/simple-service/src/main/java/com/example/Main.java",
+		"/home/adam/develop/temp/jersey/simple-service/src/main/java/com/example/MyResource.java",
+		"/home/adam/develop/temp/jersey/simple-service/pom.xml",
+		"/home/adam/develop/workspace/SublimeText/cppBase/ch10/Test01.cpp",
+		"/home/adam/develop/workspace/SublimeText/cppBase/ch10/Test03.cpp",
+		"/home/adam/develop/workspace/SublimeText/cppBase/ch05/TestBaseA.cpp",
+		"/home/adam/develop/workspace/SublimeText/cppBase/ch05/BaseA.cpp",
+		"/home/adam/develop/workspace/SublimeText/cppBase/untitled.sublime-project",
+		"/home/adam/develop/workspace/SublimeText/cppBase/ch03/TestInner.cpp",
+		"/home/adam/develop/workspace/SublimeText/cppBase/ch03/TestStatic.cpp",
+		"/home/adam/develop/workspace/SublimeText/cppBase/ch03/Static.cpp",
+		"/home/adam/develop/workspace/SublimeText/cppBase/ch03/InnerClass.cpp",
+		"/home/adam/develop/workspace/SublimeText/cppBase/ch03/Complex.cpp",
+		"/home/adam/develop/workspace/SublimeText/cppBase/ch03/TestComplex.cpp",
+		"/home/adam/develop/workspace/SublimeText/cppBase/ch03/dele.cpp",
+		"/home/adam/develop/workspace/SublimeText/cppBase/ch02/ComplexC.cpp",
+		"/home/adam/develop/workspace/SublimeText/cppBase/ch02/Complex.cpp",
+		"/home/adam/develop/workspace/SublimeText/cppBase/ch02/ComplexText.cpp",
+		"/home/adam/develop/workspace/SublimeText/cppBase/ch02/TestComplexC.cpp",
+		"/home/adam/develop/workspace/SublimeText/cppBase/ch01/pratice1_26.cpp",
+		"/home/adam/develop/workspace/SublimeText/cppBase/ch01/n_d.cpp",
+		"/home/adam/develop/workspace/SublimeText/cppBase/ch01/namespace2.cpp",
+		"/home/adam/develop/workspace/SublimeText/cppBase/ch01/namespace.cpp",
+		"/home/adam/develop/workspace/IntellijIdea/ParallelPreTreatment/.gitignored",
+		"/home/adam/develop/workspace/SublimeText/sicily/Ch01/1035.cpp",
+		"/home/adam/develop/workspace/SublimeText/sicily/Ch01/1198.cpp",
+		"/home/adam/develop/workspace/SublimeText/sicily/Ch01/1020.cpp",
+		"/home/adam/develop/workspace/SublimeText/SSArgu/PreTest/FileRead.cpp",
+		"/home/adam/develop/workspace/SublimeText/SSArgu/PreTest/ReadData.cpp",
+		"/home/adam/develop/workspace/SublimeText/SSArgu/PreTest/data.dat",
+		"/home/adam/develop/workspace/SublimeText/SSArgu/PreTest/FileWrite.cpp",
+		"/home/adam/develop/workspace/SublimeText/SSArgu/PreTest/FileRead",
+		"/home/adam/develop/workspace/SublimeText/SSArgu/PreTest/write.dat",
+		"/home/adam/develop/workspace/SublimeText/SSArgu/PreTest/FSTest",
+		"/home/adam/develop/workspace/SublimeText/SSArgu.sublime-project",
+		"/home/adam/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/adam/develop/workspace/SublimeText/SSArgu/intro.info",
+		"/home/adam/develop/archi/maven3/conf/settings.xml"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"show",
+			"secod",
+			"\";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///home/adam":
+	{
+		"height": 142.0
+	},
+	"output.exec":
+	{
+		"height": 179.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true
+}
