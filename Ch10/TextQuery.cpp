@@ -26,7 +26,7 @@ private:
 	}
 
 	void parseLines(){
-		if(!fis.good()) return;
+		if(!fis) return;
 		string line;
 		while(!fis.eof()){
 			getline(fis,line);
@@ -35,8 +35,7 @@ private:
 	}
 
 	void parseWords(){
-		if(!fis.good()) return;
-
+		if(!fis) return;
 		vector<string>::const_iterator lineIter = texts.begin();
 
 		while(lineIter!=texts.end()){
@@ -59,7 +58,7 @@ private:
 				word2Nums[word]++;
 				word2Lines[word].insert(i);
 			}
-			// cout<<test.substr(front,reer);
+			lineIter++;
 		}
 	}
 
@@ -74,22 +73,11 @@ public:
 	}
 
 	bool buildData(){
-		if(!fis.good()) return false;
+		if(!fis) return false;
 		parseLines();
 		parseWords();
-		
-		vector<string>::iterator vIter = texts.begin();
-		while(vIter!=texts.end()){
-			cout<<*vIter<<endl;
-			vIter++;
-		}
 		map<string,int>::const_iterator mIter = word2Nums.begin();
 
-
-		while(mIter!=word2Nums.end()){
-			cout<<mIter->first<<" : "<<mIter->second<<endl;
-			mIter++;
-		}
 		cout<<"finish buildData"<<endl;
 	}
 
@@ -110,18 +98,17 @@ public:
 			cout<<"input the word you want to search : "<<endl;
 			cin>>str;
 
-			map<string,int>::const_iterator numIter= word2Nums.find(str);
+			int exitNums = word2Nums.count(str);
 
-			if(numIter != word2Nums.end()){
-				map<string,set<int> >::iterator linesIter = word2Lines.find(str);
-				cout<<"nums : "<<numIter->second<<endl;
-				// set<int> nums = *(linesIter->second);
-				// set<int>::const_iterator lineIter = nums.begin();
-				// while(lineIter != linesIter->end()){
-				// 	cout<<lineIter<<end;
-				// 	lineIter++;
-				// }
+			if(exitNums == 1){
+				cout<<"nums : "<<word2Nums[str]<<endl;
+				set<int> nos = word2Lines[str];
+				set<int>::iterator nosIter = nos.begin();
+				while(nosIter!=nos.end()){
+					cout<<*nosIter<<" : "<<texts[*nosIter]<<endl;
 
+					nosIter++;
+				}
 			}
 
 		}while(str != flag);
