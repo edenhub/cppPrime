@@ -3,6 +3,8 @@
 
 using namespace std;
 
+class Consumer;
+
 class Saler{
 private:
 	int age;
@@ -12,7 +14,7 @@ private:
 	static const int flag = 0;
 
 	friend class Provider;
-	// friend void Consumer::desplayDepartment();
+	friend void desplayDepartment();
 public:
 	explicit Saler():age(0),id("-"),name(""){}
 	explicit Saler(int _age,string _name,string _id):age(_age),name(_name),id(_id){}
